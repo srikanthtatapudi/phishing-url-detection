@@ -1,0 +1,71 @@
+1. Phishing URL Detection System
+
+Problem Statement:
+Phishing attacks often use fake URLs to steal user credentials. Detecting phishing URLs automatically helps prevent cyber threats.
+
+Tech Stack:
+Python, Scikit-learn, Pandas, Flask, HTML/CSS
+
+Key Features:
+
+Extracts features from URLs (length, special characters, domain info)
+
+Trains a Machine Learning model for classification
+
+Real-time URL checking via a simple Flask web app
+
+Accuracy visualization using graphs
+
+Outcome:
+Built a system that accurately predicts whether a URL is safe or malicious.
+
+One-line Resume Description:
+"Developed a Python-based ML model integrated with Flask to detect phishing URLs with high accuracy."
+
+2. Log File Analyzer for Security Events
+
+Problem Statement:
+Server logs often contain huge data. Manually detecting suspicious login attempts or anomalies is inefficient.
+
+Tech Stack:
+Python, Regex, Pandas, Matplotlib
+
+Key Features:
+
+Parses system/server log files automatically
+
+Detects failed logins, brute-force attempts, and unusual activity
+
+Generates visual reports for security analysis
+
+Exports summarized reports in CSV format
+
+Outcome:
+Created a Python tool to detect security events quickly using log analysis.
+
+One-line Resume Description:
+"Built a Python-based log analysis tool to detect security anomalies and generate visualization reports."
+
+3. Password Strength Checker
+
+Problem Statement:
+Weak passwords are a common cause of security breaches. A simple tool to check password strength can improve security awareness.
+
+Tech Stack:
+Python, Tkinter (GUI), Regex
+
+Key Features:
+
+Evaluates password length, character variety, and entropy
+
+Checks for dictionary words or common passwords
+
+Gives real-time feedback on password strength
+
+Simple user interface for ease of use
+
+Outcome:
+Designed a GUI-based Python application to check and improve password strength.
+
+One-line Resume Description:
+"Developed a GUI-based Python application to analyze and rate password strength for better security."
